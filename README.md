@@ -6,4 +6,4 @@ Discord: https://discord.gg/BQr99Kh5TC (And if you want support because support 
 
 Added support for ox-contextmenu
 
-`Config.UseQBCoreMenu = true -- Set this to true to use qb-menu or false to use ox-menu`
+`Config.UseQBCoreMenu` -- Set this to true to use qb-menu or false to use ox-menu
